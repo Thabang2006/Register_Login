@@ -172,7 +172,7 @@ public class Register_Login {
         enterMenu.close();
         
     }
-        
+        System.out.print("");
         
     }
 }
